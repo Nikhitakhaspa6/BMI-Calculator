@@ -1,0 +1,31 @@
+/* Styling the body */
+body {
+  background: linear-gradient(135deg, #a2d9ff, #e0f7fa);
+}
+
+/* Styling the input fields and buttons */
+.input-group-text {
+  background-color: #0d6efd;
+  color: white;
+}
+
+input {
+  font-size: 1.1rem;
+}
+
+button {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+/* Result styling */
+.alert {
+  font-size: 1.25rem;
+  text-align: center;
+  margin-top: 10px;
+}
+
+/* Shadow effect for the card */
+.card {
+  border-radius: 10px;
+}
